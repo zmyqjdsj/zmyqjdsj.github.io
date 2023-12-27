@@ -11,7 +11,12 @@ redirect_from:
 I'm a senior student from [Beijing Jiaotong University](https://www.bjtu.edu.cn/). 
 You can find my CV here: [Chenlu Wang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-My two main research tasks are to develop a framework called MultiRL to achieve the transfer of multiple styles of text, and to use the DDQN algorithm in deep reinforcement learning to establish a park emergency shelter planning model with the goal of minimizing evacuation time, optimal medical service plan, and minimum planning cost.
+I have two main research tasks.The first one is to develop a framework called MultiRL to achieve the transfer of multiple styles of text.
+[Download paper here](http://zmyqjdsj.github.io/files/paper1.pdf)
+[Get code here](http://zmyqjdsj.github.io/files/paper1.pdf)
+And the second one to use the DDQN algorithm in deep reinforcement learning to establish a park emergency shelter planning model with the goal of minimizing evacuation time, optimal medical service plan, and minimum planning cost.
+[Download paper here](http://zmyqjdsj.github.io/files/paper2pdf)
+[Get code here](http://zmyqjdsj.github.io/files/paper2.pdf)
 
 My research interest includes Natural Language Processing,Deep Reinforcement Learning, machine learning, and War Gaming.
 
