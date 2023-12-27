@@ -1,15 +1,6 @@
----
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-This paper is about the number 2. The number 3 is left for future work.
+Research on Park Emergency Refuge Planning Based on Deep Reinforcement Learning (Project Leader)                       
+·The project won the Beijing Campus Level Award for the 2022 College Student Innovation and Entrepreneurship Training Program Project
+·Conduct research on the disaster prevention and evacuation functions of personnel intensive organizations, select campuses with high demand for emergency evacuation as the research object, and comprehensively consider the distribution of personnel in the park during work, dining, and sleeping periods under three disaster forms: earthquake, fire, and military strikes. Plan medical treatment plans, and establish the shortest evacuation time based on the Double DQN algorithm in deep reinforcement learning A park emergency shelter planning model with the goal of optimal medical service plan and minimum planning cost, and its effectiveness was verified at a university in Beijing.
+·As the first author, the paper has been submitted to scientific and technological innovation
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
