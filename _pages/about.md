@@ -10,7 +10,8 @@ redirect_from:
 
 I'm a third year undergraduate student from [Beijing Jiaotong University](https://www.bjtu.edu.cn/). My research interest includes Natural Language Processing,Deep Reinforcement Learning, machine learning, and War Gaming.
 
-You can find my CV here: [Chenlu Wang's Curriculum Vitae](../assets/Chenlu Wang's Curriculum Vitae.pdf).
+You can find my CV here: [Chenlu Wang's Curriculum Vitae](zmyqjdsj.github.io
+/assets/Chenlu Wang's Curriculum Vitae.pdf).
 
 A data-driven personal website
 ======
