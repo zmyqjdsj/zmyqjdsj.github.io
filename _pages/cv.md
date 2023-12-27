@@ -43,6 +43,7 @@ Research on Chinese Patent Text Segmentation Method Based on Graph Neural Networ
 ·Plan to use graph neural networks to develop a more accurate and fast Chinese patent text segmentation method, improve the accuracy of information extraction in Chinese patent texts, achieve automatic classification of patent documents, unify classification standards, improve classification accuracy, and reduce labor costs.
 
 Research on Prototype Support Software for Commercial Wargame Inference					       2023-11 up to now
+
 ·Plan to explore a prototype software that supports commercial chess deduction. At least four simulated business environments are selected from eight important internal or external links, namely finance, market, finance, product, technology, production, supply chain, and policy environment. Each link is represented by simple quantitative indicators, and the probability of occurrence of the external environment is pre-set, and the impact relationship between each indicator is pre-set, And use Python programs to write data logic and display data frontend, achieving the goal of preliminary support for inference. The final commercial strategy can simulate complex business environments, including market changes, competitive pressures, policy impacts, and other factors.
 
 Project Experience
