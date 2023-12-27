@@ -26,26 +26,25 @@ Honorary Awards
 
 Research Experience
 ======
-MultiRL: A reinforcement learning framework for unparallel literary text multi-style transfer（project leader）                      2021-9 to 2021-12
+MultiRL: A reinforcement learning framework for unparallel literary text multi-style transfer（project leader）                     2021-9 to 2021-12
+
 ·This project is an nlp project in the PBL of the Massachusetts Institute of Technology Blended Learning project. I was awarded a $3500 PBL scholarship for the 2021 Massachusetts Institute of Technology Blended Learning project under the leadership of Gary Becigneul, a former researcher in the MIT Natural Language Processing Group.
 ·A framework called MultiRL has been proposed, which extends the framework between two objectives to a dual learning framework between multiple objectives. Introduced a styleless vector representation of content as an intermediate step in the conversion between different styles. By using vectors to perform dual learning between multiple targets, each target receives multiple rewards in terms of style accuracy and content preservation, and is trained through reinforcement learning based on multiple mapping models. Implement transmission between multiple styles without parallel data.
 ·Most of the work has been completed, but due to hardware limitations, a good result has not yet been trained, so it is temporarily put on hold.
+
 Research on Park Emergency Refuge Planning Based on Deep Reinforcement Learning (Project Leader)                             2022-4 to 2023-4
+
 ·The project won the Beijing Campus Level Award for the 2022 College Student Innovation and Entrepreneurship Training Program Project
 ·Conduct research on the disaster prevention and evacuation functions of personnel intensive organizations, select campuses with high demand for emergency evacuation as the research object, and comprehensively consider the distribution of personnel in the park during work, dining, and sleeping periods under three disaster forms: earthquake, fire, and military strikes. Plan medical treatment plans, and establish the shortest evacuation time based on the Double DQN algorithm in deep reinforcement learning A park emergency shelter planning model with the goal of optimal medical service plan and minimum planning cost, and its effectiveness was verified at a university in Beijing.
 ·As the first author, the paper has been submitted to scientific and technological innovation
+
 Research on Chinese Patent Text Segmentation Method Based on Graph Neural Network					       2023-11 up to now
+
 ·Plan to use graph neural networks to develop a more accurate and fast Chinese patent text segmentation method, improve the accuracy of information extraction in Chinese patent texts, achieve automatic classification of patent documents, unify classification standards, improve classification accuracy, and reduce labor costs.
 
 Research on Prototype Support Software for Commercial Wargame Inference					       2023-11 up to now
 ·Plan to explore a prototype software that supports commercial chess deduction. At least four simulated business environments are selected from eight important internal or external links, namely finance, market, finance, product, technology, production, supply chain, and policy environment. Each link is represented by simple quantitative indicators, and the probability of occurrence of the external environment is pre-set, and the impact relationship between each indicator is pre-set, And use Python programs to write data logic and display data frontend, achieving the goal of preliminary support for inference. The final commercial strategy can simulate complex business environments, including market changes, competitive pressures, policy impacts, and other factors.
-Publications
 
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Project Experience
 ======
 IKEA Hand-on project                                                                         
