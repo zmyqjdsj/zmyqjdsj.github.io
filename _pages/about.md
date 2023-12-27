@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-s
 I'm a senior student from [Beijing Jiaotong University](https://www.bjtu.edu.cn/). 
 You can find my CV here: [Chenlu Wang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
