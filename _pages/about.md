@@ -1,11 +1,4 @@
----
-permalink: /
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 Aboat me
 ======
 I'm a senior student from [Beijing Jiaotong University](https://www.bjtu.edu.cn/). My research interest includes Natural Language Processing,Deep Reinforcement Learning, machine learning, and War Gaming.
